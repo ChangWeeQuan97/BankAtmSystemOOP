@@ -1,7 +1,0 @@
-C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\ObjectOrientedProgramming\assignment\BlackJackAssignment\BlackJackAssignment\bin\Debug\BlackJackAssignment.exe.config
-C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\ObjectOrientedProgramming\assignment\BlackJackAssignment\BlackJackAssignment\bin\Debug\BlackJackAssignment.exe
-C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\ObjectOrientedProgramming\assignment\BlackJackAssignment\BlackJackAssignment\bin\Debug\BlackJackAssignment.pdb
-C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\ObjectOrientedProgramming\assignment\BlackJackAssignment\BlackJackAssignment\obj\Debug\BlackJackAssignment.csprojAssemblyReference.cache
-C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\ObjectOrientedProgramming\assignment\BlackJackAssignment\BlackJackAssignment\obj\Debug\BlackJackAssignment.csproj.CoreCompileInputs.cache
-C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\ObjectOrientedProgramming\assignment\BlackJackAssignment\BlackJackAssignment\obj\Debug\BlackJackAssignment.exe
-C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\ObjectOrientedProgramming\assignment\BlackJackAssignment\BlackJackAssignment\obj\Debug\BlackJackAssignment.pdb
